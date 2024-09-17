@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:04 +0700] "GET / HTTP/1.1" 200 73167
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:04 +0700] "GET /assets/css/color.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:07 +0700] "GET /store HTTP/1.1" 200 30665
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:07 +0700] "GET /assets/images/nike_shoes.png HTTP/1.1" 404 787
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:07 +0700] "GET /assets/images/sony_headphones.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:07 +0700] "GET /assets/images/samsung_microwave.png HTTP/1.1" 404 794
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:07 +0700] "GET /assets/images/nike_shoes.png HTTP/1.1" 404 787
+0:0:0:0:0:0:0:1 - - [18/Oct/2024:01:41:07 +0700] "GET /assets/images/samsung_microwave.png HTTP/1.1" 404 794
